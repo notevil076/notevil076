@@ -7,7 +7,7 @@
 
 <!-- BANNER — replace with your own hosted image -->
 <!-- Recommended: 1400×400 dark banner with the knot logo + "not" branding -->
-<img src="./assets/banner.png" alt="not ecosystem" width="100%" />
+<img src="./assets/banner.svg" alt="not ecosystem" width="100%" />
 
 <br/>
 
