@@ -51,7 +51,7 @@ Each project shares the same DNA: **glass morphism, violet accents, liquid geome
 </td>
 <td>
 
-### not NETWORK
+### [not NETWORK](https://github.com/notevil076/not-network)
 **Custom VPN client for Windows**
 <br/>
 
@@ -104,7 +104,7 @@ A from-scratch VPN client built on **sing-box** core with full protocol support.
 </td>
 <td>
 
-### not BROWSER
+### [not BROWSER](https://github.com/notevil076/not-browser)
 **Minimal web browser built on Tauri 2**
 <br/>
 
@@ -151,7 +151,7 @@ A lightweight, privacy-first browser with a custom new tab experience — weathe
 </td>
 <td>
 
-### not DIA
+### [not DIA](https://github.com/notevil076/not-dia)
 **Secure messenger — [diatalk.ru](https://diatalk.ru)**
 <br/>
 
@@ -204,7 +204,7 @@ A self-hosted real-time messenger with a full-featured backend and PWA frontend.
 </td>
 <td>
 
-### not OS Layer
+### [not OS Layer](https://github.com/notevil076/not-os-layer)
 **A complete shell layer for Windows 11**
 <br/>
 
